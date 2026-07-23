@@ -34,7 +34,7 @@ Prior to analysis, a structured data quality framework was implemented to ensure
 Result: 7,032 clean records (99.84% retention), ensuring analytical reliability, reporting accuracy, and executive-grade decision support. 
 
 ## 3. Business-Relevant SQL Insights
-Below are production-level queries that directly inform revenue strategy. 
+Below are production-level queries that directly inform revenue strategy: 
 
 ### A. Contract-Driven Revenue Exposure 
 ![Contract Analysis](images/contract_analysis.jpeg)  
