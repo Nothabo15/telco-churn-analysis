@@ -3,6 +3,11 @@ Prepared by: Nothabo Moyo
 Dataset: 7,043 customers | 7,032 validated records (99.84% data integrity)    
 Prepared for: VP Customer Success | Chief Revenue Officer | Head of Data | Senior Product Leaders  
 
+## 1. Business Problem 
+A telecommunications provider was experiencing customer churn without a clear understanding of which customer segments were driving revenue loss.
+
+The objective of this project was to identify the highest-risk customer groups, quantify financial exposure, and recommend data-driven retention strategies that could reduce churn and improve recurring revenue.
+
 ## 1. Executive Summary 
 $1.67M in annual revenue exposure is concentrated in early-tenure, high-spend, month-to-month customers. Churn is not random, it is identifiable and segment-driven.
 
